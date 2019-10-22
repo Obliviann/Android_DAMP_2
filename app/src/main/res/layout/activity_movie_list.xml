@@ -13,7 +13,7 @@
     <!-- Include other widget or layout tags here. These are considered
     "child views" or "children" of the linear layout -->
 
-    <!-- The RecyclerView fills itself with views provided by the LinearLayout -->
+    <!-- The only view for the whole layout. The RecyclerView fills itself with views provided by the LinearLayout -->
     <android.support.v7.widget.RecyclerView
         android:id="@+id/my_recycler_view"
         android:scrollbars="vertical"
