@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.liv.damp_2.R //La R son todos los recursos de mi proyecto (ids, layouts...) como un array gigante
 
-class MovieList : AppCompatActivity() {
+class MovieListActivity : AppCompatActivity() {
     //Once we've added a RecyclerView widget to our layout file, we:
     //1.obtain a handle to the object
                         //var name      //type
